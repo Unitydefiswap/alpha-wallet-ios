@@ -7,6 +7,7 @@ This comment is here with the wrong syntax (no leading //) to force a build erro
 // swiftlint:enable no_space_in_method_call
 enum OriginalDapps {
     static let masterList = [
+        Dapp(name: "Unitydefi", description: "Your One Stop DeFi and NFT Dapp", url: "www.unitydefi.com", cat: "Marketplace"),
         Dapp(name: "Rare Coin", description: "Free Crypto Faucet & Yeild Farming", url: "make.rare.claims", cat: "Tools"),
         Dapp(name: "Eporio", description: "The cheaper marketplace for NFT - Non Fungible Tokens", url: "https://epor.io", cat: "Marketplace"),
         Dapp(name: "TokenSets", description: "Enhance your portfolio with automated asset management strategies.", url: "https://www.tokensets.com/", cat: "Finance"),
