@@ -1,4 +1,4 @@
-# AlphaWallet - Advanced, Open Source Ethereum Mobile Wallet & dApp Browser for iOS
+# RYIPAY - Advanced, Open Source Ethereum Mobile Wallet & dApp Browser for iOS
 
 [![Build Status](https://travis-ci.com/AlphaWallet/alpha-wallet-ios.svg?branch=master)](https://github.com/AlphaWallet/alpha-wallet-ios/tree/master)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg )](https://GitHub.com/AlphaWallet/alpha-wallet-ios/graphs/commit-activity)
@@ -6,17 +6,17 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AlphaWallet/alpha-wallet-ios/blob/master/LICENSE)
 [![codecov](https://codecov.io/gh/AlphaWallet/alpha-wallet-ios/branch/master/graph/badge.svg )](https://codecov.io/gh/AlphaWallet/alpha-wallet-ios)
 
-AlphaWallet is an open source programmable blockchain apps platform. It's compatible with tokenisation framework TokenScript, offering businesses and their users in-depth token interaction, a clean white label user experience and advanced security options. Supports all Ethereum based networks.
+ryipayis an open source programmable blockchain apps platform. It's compatible with tokenisation framework TokenScript, offering businesses and their users in-depth token interaction, a clean white label user experience and advanced security options. Supports all Ethereum based networks.
 
-AlphaWallet and TokenScript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/AlphaWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
+RYIPAY and TokenScript have been used by tokenisation projects like FIFA and UEFA’s [blockchain tickets](https://apps.apple.com/au/app/shankai/id1492559481), Bartercard’s [Qoin ecommerce ecosystem](https://apps.apple.com/au/app/qoin-wallet/id1483718254), several Automobiles’ [car ownership portal](https://github.com/AlphaWallet/TokenScript-Examples/tree/master/examples/Karma) and many more.
 
 ⭐ Star us on GitHub — it helps!
 
-[![alphawallet open source wallet ios preview](/resources/alphawallet-open-source-ethereum-wallet.jpg)](https://alphawallet.com/)
+[![ryipay open source wallet ios preview](/resources/alphawallet-open-source-ethereum-wallet.jpg)](https://alphawallet.com/)
 
 <a href='https://itunes.apple.com/us/app/alphawallet/id1358230430?ls=1&mt=8'><img alt='Get AlphaWallet Open Source Wallet on Apple Store' src='/resources/download-app-store-button.svg' height="60"/></a>
 
-## About AlphaWallet - Features
+## About ryipay - Features
 
 Easy to use and secure open source Ethereum wallet for iOS and Android, with native ERC20, ERC721 and ERC875 support. AlphaWallet supports all Ethereum based networks: Ethereum, xDai, Ethereum Classic, Artis, POA, Ropsten, Goerli, Kovan, Rinkeby and Sokol.
 
